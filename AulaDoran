@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,17 +6,19 @@
     <link rel="styleheet" href="style.css">
 
 </head>
+
 <body>
-    <header>
+    <header class=cabecalho">
 
-       <h1>home</h1>            
-       <h1> </h1>
-       <h1> </h1>
-       <h1> </h1>
-       <h1> </h1>
+        <img class=cabecalho-imagem" src="" alt="">
+        <h1>Site Paçoca</h1>
+        <ul> </ul>
 
+        <li>Opções </li>
+        <li>Sabores</li>
 
 
     </header>
 </body>
+
 </html>
